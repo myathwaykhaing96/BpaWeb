@@ -1,0 +1,200 @@
+{
+  "data": {
+    "light": {
+      "id": "light",
+      "name": "Light",
+      "style": {
+        "colors": {
+          "header": {
+            "text": "#FFFFFF",
+            "background": "#590CA6"
+          },
+          "body": "#FFFFFF",
+          "text": "#000000",
+          "button": {
+            "text": "#FFFFFF",
+            "background": "#000000"
+          },
+          "link": {
+            "text": "teal",
+            "opacity": 1
+          },
+          "icon": "#772BD8",
+          "footer": {
+            "text": "#FFFFFF",
+            "background": "#1D1427"
+          }
+        },
+        "font": "Helvetica"
+      }
+    },
+    "dark": {
+      "id": "dark",
+      "name": "Dark",
+      "style": {
+        "colors": {
+          "header": {
+            "text": "#590CA6",
+            "background": "#FFFFFF"
+          },
+          "body": "#000000",
+          "text": "#FFFFFF",
+          "button": {
+            "text": "#000000",
+            "background": "#FFFFFF"
+          },
+          "link": {
+            "text": "teal",
+            "opacity": 1
+          },
+          "icon": "#FFFFFF",
+          "footer": {
+            "text": "#FFFFFF",
+            "background": "#1D1427"
+          }
+        },
+        "font": "Roboto"
+      }
+    },
+    "material": {
+      "id": "material",
+      "name": "Material",
+      "style": {
+        "colors": {
+          "header": {
+            "text": "#6a1b9a",
+            "background": "#ebdbf5"
+          },
+          "body": "#6a1b9a",
+          "text": "#ebdbf5",
+          "button": {
+            "text": "#6a1b9a",
+            "background": "#ebdbf5"
+          },
+          "link": {
+            "text": "teal",
+            "opacity": 0.8
+          },
+          "icon": "#ebdbf5",
+          "footer": {
+            "text": "#FFFFFF",
+            "background": "#1D1427"
+          }
+        },
+        "font": "Abel"
+      }
+    },
+    "sharp": {
+      "id": "sharp",
+      "name": "Sharp",
+      "style": {
+        "colors": {
+          "header": {
+            "text": "#ffeb3b",
+            "background": "#292500"
+          },
+          "body": "#ffeb3b",
+          "text": "#292500",
+          "button": {
+            "text": "#FFFFFF",
+            "background": "#292500"
+          },
+          "link": {
+            "text": "teal",
+            "opacity": 0.8
+          },
+          "icon": "#292500",
+          "footer": {
+            "text": "#FFFFFF",
+            "background": "#1D1427"
+          }
+        },
+        "font": "Kufam"
+      }
+    },
+    "calm": {
+      "id": "calm",
+      "name": "Calm",
+      "style": {
+        "colors": {
+          "header": {
+            "text": "#80cbc4",
+            "background": "#002b24"
+          },
+          "body": "#80cbc4",
+          "text": "#002b24",
+          "button": {
+            "text": "#FFFFFF",
+            "background": "#002b24"
+          },
+          "link": {
+            "text": "teal",
+            "opacity": 0.8
+          },
+          "icon": "#002b24",
+          "footer": {
+            "text": "#FFFFFF",
+            "background": "#1D1427"
+          }
+        },
+        "font": "Nunito Sans"
+      }
+    },
+    "cherryBonBon": {
+      "id": "cherryBonBon",
+      "name": "Cherry Bon Bon",
+      "style": {
+        "colors": {
+          "header": {
+            "text": "#c62828",
+            "background": "#ffeeed"
+          },
+          "body": "#c62828",
+          "text": "#ffeeed",
+          "button": {
+            "text": "#c62828",
+            "background": "#ffeeed"
+          },
+          "link": {
+            "text": "teal",
+            "opacity": 0.8
+          },
+          "icon": "#ffeeed",
+          "footer": {
+            "text": "#FFFFFF",
+            "background": "#1D1427"
+          }
+        },
+        "font": "Crimson Text"
+      }
+    },
+    "seaWave": {
+      "id": "seaWave",
+      "name": "Sea Wave",
+      "style": {
+        "colors": {
+          "header": {
+            "text": "#9be7ff",
+            "background": "#0d47a1"
+          },
+          "body": "#9be7ff",
+          "text": "#0d47a1",
+          "button": {
+            "text": "#ffffff",
+            "background": "#0d47a1"
+          },
+          "link": {
+            "text": "teal",
+            "opacity": 0.8
+          },
+          "icon": "#0d47a1",
+          "footer": {
+            "text": "#FFFFFF",
+            "background": "#1D1427"
+          }
+        },
+        "font": "Ubuntu"
+      }
+    }
+  }
+}

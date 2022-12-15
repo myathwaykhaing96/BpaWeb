@@ -1,0 +1,8 @@
+export { default as Abank } from './images/companyImages/Abank.svg'
+export { default as AbankLogo } from './images/companyImages/AbankLogo.svg'
+export { default as CompanyName } from './images/companyImages/CompanyName.svg'
+export { default as Game } from './images/mockTesting/game_icon.svg'
+export { default as GamePNG } from './images/mockTesting/game_icon.png'
+export { default as GameJPG } from './images/mockTesting/game_icon.jpg'
+export { default as ErrorRocket } from './images/error/Error_Rocket.svg'
+export { default as Frame } from './images/defaultImages/Frame313617.svg'

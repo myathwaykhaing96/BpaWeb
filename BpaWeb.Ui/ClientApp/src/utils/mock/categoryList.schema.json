@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "categoryCode": "topup",
+      "categoryName": "Top Up"
+    },
+    {
+      "categoryCode": "gift-card",
+      "categoryName": "Gift Card"
+    },
+    {
+      "categoryCode": "game",
+      "categoryName": "Game"
+    }
+  ]
+}

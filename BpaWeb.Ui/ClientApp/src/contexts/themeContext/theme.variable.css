@@ -1,0 +1,46 @@
+:root {
+  --theme-font: "Helvetica";
+  --theme-colors-header-background: #590CA6;
+  --theme-colors-header-text: #FFFFFF;
+  --theme-colors-body: #FFFFFF;
+  --theme-colors-text: #000000;
+  --theme-colors-link-text: teal;
+  --theme-colors-button-background: #2a1717;
+  --theme-colors-button-text: #FFFFFF;
+  --theme-colors-icon: "#3F78E0";
+  --theme-colors-footer-background: #590CA6;
+  --theme-colors-footer-text: #1D1427;
+}
+
+a {
+  color: var(--theme-colors-link-text);
+  cursor: pointer;
+}
+
+button.btn {
+  background-color: var(--theme-colors-button-background);
+  color: var(--theme-colors-button-text);
+}
+
+button.cancel {
+  background-color: #ff0000;
+  color: var(--theme-colors-button-text);
+}
+
+button:disabled {
+  background-color: #ebebeb;
+  color: #333333;
+}
+
+button {
+  border: 0;
+  display: inline-block;
+  padding: 12px 24px;
+  font-size: 14px;
+  border-radius: 4px;
+  margin-top: 5px;
+  cursor: pointer;
+  background-color: #1064EA;
+  color: #FFFFFF;
+  font-family: var(--theme-font);
+}

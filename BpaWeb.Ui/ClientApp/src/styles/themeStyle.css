@@ -1,0 +1,16 @@
+/* Theme style */
+
+.theme-header {
+  background-color: var(--theme-colors-header-background);
+  color: var(--theme-colors-header-text);
+}
+
+.theme-category-logo {
+  /* filter: invert(0%) sepia(78%) saturate(1386%) hue-rotate(236deg) brightness(103%) contrast(108%); */
+  filter: var(--theme-colors-icon)
+}
+
+.theme-footer {
+  background-color: var(--theme-colors-footer-background);
+  color: var(--theme-colors-footer-text);
+}

@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  background: var(--theme-colors-body);
+  color: var(--theme-colors-text);
+  font-family: var(--theme-font);
+  transition: all 0.1s linear;
+}
+
+@font-face {
+  font-family: 'Helvetica';
+  src: url('assets/fonts/Helvetica-Font/Helvetica.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+#root {
+  min-height: 100vh;
+  height: 100%;
+}
+

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BpaWeb.Domain", "BpaWeb.Domain\BpaWeb.Domain.csproj", "{F402A34B-7F7C-469E-B8B8-0E6F8F498155}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BpaWeb.Service", "BpaWeb.Service\BpaWeb.Service.csproj", "{A5CE18CB-A138-4C9A-B8B7-D03BBC2ACE4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BpaWeb.Ui", "BpaWeb.Ui\BpaWeb.Ui.csproj", "{C0816A53-96FC-4541-A826-D4C06909FFE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F402A34B-7F7C-469E-B8B8-0E6F8F498155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F402A34B-7F7C-469E-B8B8-0E6F8F498155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F402A34B-7F7C-469E-B8B8-0E6F8F498155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F402A34B-7F7C-469E-B8B8-0E6F8F498155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5CE18CB-A138-4C9A-B8B7-D03BBC2ACE4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5CE18CB-A138-4C9A-B8B7-D03BBC2ACE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5CE18CB-A138-4C9A-B8B7-D03BBC2ACE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5CE18CB-A138-4C9A-B8B7-D03BBC2ACE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0816A53-96FC-4541-A826-D4C06909FFE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0816A53-96FC-4541-A826-D4C06909FFE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0816A53-96FC-4541-A826-D4C06909FFE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0816A53-96FC-4541-A826-D4C06909FFE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
